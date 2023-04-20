@@ -1,4 +1,4 @@
-Egan Henderson Student # 6289201 - Assignment 2 for COSC 3P98
+Egan Henderson Assignment 2 for COSC 3P98
 
 To run the 2D hull peeler, open the folder called 2DHull, open EganHenderson_Assignment2.sln, then either press F5 or press the start button in Visual Studio to run it.
 You may need to open 2DHull.cpp using the Solution Explorer if it does not open the first time the solution is loaded.
