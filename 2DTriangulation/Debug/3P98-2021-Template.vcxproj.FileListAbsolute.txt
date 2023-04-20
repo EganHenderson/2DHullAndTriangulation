@@ -1,0 +1,12 @@
+C:\Users\eganh\Downloads\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.exe
+C:\Users\eganh\Downloads\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\3P98-2021-Template\Debug\EganHenderson_Assignment1_TextureExplorer.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\3P98-2021-Template\Debug\EganHenderson_Assignment1_TextureExplorer.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\TextureExplorer\Debug\EganHenderson_Assignment1_TextureExplorer.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\TextureExplorer\Debug\EganHenderson_Assignment1_TextureExplorer.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\Debug\EganHenderson_Assignment2_2DHull.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\Debug\EganHenderson_Assignment2_2DHull.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\2DTriangulation\Debug\EganHenderson_Assignment2_2DTriangulation.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\2DTriangulation\Debug\EganHenderson_Assignment2_2DTriangulation.pdb

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3P98-2021-Template.vcxproj, EganHenderson_Assignment1_TextureExplorer.vcxproj, EganHenderson_Assignment2_2DHull.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  2DTriangulation.cpp
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\2DTriangulation\2DTriangulation.cpp(137,18): warning C4101: 'dir_p_p2': unreferenced local variable
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\2DTriangulation\2DTriangulation.cpp(137,8): warning C4101: 'dir_p1_p': unreferenced local variable
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\2DTriangulation\2DTriangulation.cpp(209,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  3P98-2021-Template.vcxproj -> S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment2\2DTriangulation\Debug\EganHenderson_Assignment2_2DTriangulation.exe
